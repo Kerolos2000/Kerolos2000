@@ -1,60 +1,74 @@
-# Hi 👋, I'm Kerolos Magdy
-### Frontend Developer
-###### I am an enthusiastic Frontend Developer with more than 2 years of experience, specializing in React.js. My expertise lies in crafting engaging user interfaces and building robust web applications. I am dedicated to staying updated with the latest technologies and delivering high-quality solutions that exceed expectations.
+<h2 align="center">Hi 👋! My name is Kerolos and I'm a Frontend Developer</h2>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kerolos2000.github.io/portfolio/)
-- 💬 Ask me about **React.js**
-- 📫 How to reach me [kerolos1410@gmail.com](mailto:kerolos1410@gmail.com)
-- 📄 Know about my experiences [Resume](https://flowcv.com/resume/652bhdl1vr)
+###
 
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/kerolos-magdy-314644212" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerolos2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kerolos2000&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerolos2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="kerolos1410@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-
-  <a href="mailto:kerolos1410@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="LinkedIn" height="30" width="35"/>
+  <a href="https://www.linkedin.com/in/kerolos-magdy-314644212/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="01205224238" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-### Languages and Tools:
-<p align="left">
+###
 
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="40" height="40" />
-  
-  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="60" height="40" />
+<br clear="both">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/React_Admin_logo.svg/2048px-React_Admin_logo.svg.png" alt="React Admin" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" alt="Snake animation" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+###
 
-  <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" width="40" height="40" />
-  
-  <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FH6uD0%2FbtrAIPu7KHW%2FBqKZqIhmQK5SSM5kHCqwck%2Fimg.png" alt="Material UI" width="40" height="40" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Kerolos2000&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerolos2000&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="40" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML" width="40" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="50" height="40" />
-
-  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/7e9285174963897.Y3JvcCwyNTE0LDE5NjcsMTM1MCww.png" alt="gluestack" width="60" height="40" />
-
-  <img src="https://tamagui.dev/social.png" alt="tamagui" width="60" height="40" />
-
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
-
-  <img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" alt="postman" width="50" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" alt="Git" width="100" height="40" />
-
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="GitHub" width="40" height="40" />
-
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/framer_logo_icon_169150.png" alt="Figma" width="60" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="30" height="40" />
-
-</p>
+###

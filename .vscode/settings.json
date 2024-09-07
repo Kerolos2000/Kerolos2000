@@ -18,8 +18,5 @@
     "titleBar.inactiveForeground": "#15202b99",
     "titleBar.activeForeground": "#15202b"
   },
-  "peacock.color": "#EEE8AA",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.markdownlint": true
-  }
+  "peacock.color": "#EEE8AA"
 }

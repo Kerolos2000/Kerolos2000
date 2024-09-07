@@ -10,6 +10,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -42,27 +48,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/docs/static/img/logos/react-hook-form.svg" height="30" alt="react-hook-form logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marmelab/react-admin/master/docs/assets/images/react-admin-logo.svg" height="30" alt="react-admin logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" height="30" alt="zod logo"  />
+  <img width="12" />
+  <img src="https://casl.js.org/images/casl.svg" height="30" alt="casl logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/i18next/i18next/master/assets/img/logo.png" height="30" alt="i18next logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand-logo.svg" height="30" alt="zustand logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" height="30" alt="axios logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="kerolos1410@gmail.com" target="_blank">
+  <a href="mailto:kerolos1410@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>r
+  </a>
   <a href="https://www.linkedin.com/in/kerolos-magdy-314644212/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="01205224238" target="_blank">
+  <a href="https://wa.me/201205224238" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" alt="Snake animation" />
 
 ###
 

@@ -35,6 +35,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
+  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" height="30" alt="react-hook-form logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/React_Admin_logo.svg/1200px-React_Admin_logo.svg.png" height="30" alt="react-admin logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/HEAD/logo.svg" height="30" alt="zod logo"  />
+  <img width="12" />
+  <img src="https://casl.js.org/v6/51b9cc103e05f66c.png" height="30" alt="casl logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" height="30" alt="i18next logo"  />
+  <img width="12" />
+  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="30" alt="zustand logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*cQ8JTEvKMKaBhovYI2mncQ.png" height="30" alt="axios logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
@@ -49,19 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/docs/static/img/logos/react-hook-form.svg" height="30" alt="react-hook-form logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marmelab/react-admin/master/docs/assets/images/react-admin-logo.svg" height="30" alt="react-admin logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" height="30" alt="zod logo"  />
-  <img width="12" />
-  <img src="https://casl.js.org/images/casl.svg" height="30" alt="casl logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/i18next/i18next/master/assets/img/logo.png" height="30" alt="i18next logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand-logo.svg" height="30" alt="zustand logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" height="30" alt="axios logo"  />
 </div>
 
 ###

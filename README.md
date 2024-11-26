@@ -12,7 +12,6 @@
 
 <br clear="both">
 
-
 <img src="https://www.codewars.com/users/Kerolos2000/badges/large" alt="codewars badges" />
 <img src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" alt="Snake animation" />
 

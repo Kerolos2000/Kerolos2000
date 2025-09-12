@@ -5,9 +5,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerolos2000&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="160" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=Kerolos2000&theme=github_dark&hide_border=false&border_radius=5" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerolos2000&layout=compact&langs_count=6&theme=github_dark&hide_border=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerolos2000&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="160" alt="stats graph" />
 </div>
 
 ---
@@ -19,13 +18,9 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 GitHub Contributions
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" />
-  </picture>
 </div>
 
 ---

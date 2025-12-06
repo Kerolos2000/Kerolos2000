@@ -5,8 +5,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kerolos2000" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerolos2000&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Kerolos2000&theme=dark&hide_border=true" alt="Kerolos2000's GitHub Stats" />
 </div>
 
 ---

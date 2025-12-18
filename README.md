@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kerolos2000&theme=dark&hide_border=true" alt="Kerolos2000's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Kerolos2000" alt="Kerolos2000's GitHub Stats" />
 </div>
 
 ---

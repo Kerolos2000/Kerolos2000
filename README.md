@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00d492">Kerolos</span></h1>
-<h2 align="center">🚀 Frontend Developer | React & Next.js</h3>
+<h2 align="center">🚀 Frontend Developer | React, Next.js & Angular</h3>
 
 ---
 
@@ -9,9 +9,8 @@
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Kerolos2000?cardType=level&theme=dark&preferLogin=true" height="175">
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kerolos2000&theme=dark" height="175">
-  </a>
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Kerolos2000&theme=dark)
 </div>
 
 ---
@@ -39,6 +38,7 @@
 <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" alt="javascript" />
 <img src="https://cdn.simpleicons.org/next.js?viewbox=auto&size=40" alt="next.js" />
 <img src="https://cdn.simpleicons.org/react?viewbox=auto&size=40" alt="react.js" />
+<img src="https://cdn.simpleicons.org/angular?viewbox=auto&size=40" alt="angular" />
 <img src="https://cdn.simpleicons.org/shadcnui?viewbox=auto&size=40" alt="shadcnui" />
 <img src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto&size=40" alt="tailwindcss" />
 <img src="https://cdn.simpleicons.org/mui?viewbox=auto&size=40" alt="materialui" />
@@ -49,7 +49,6 @@
 <img src="https://cdn.simpleicons.org/tanstack?viewbox=auto&size=40" alt="tanstack" />
 <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="40" alt="zustand" />
 <img src="https://cdn.simpleicons.org/i18next?viewbox=auto&size=40" alt="i18next" />
-<img src="https://casl.js.org/v6/51b9cc103e05f66c.png" height="40" alt="casl" />
 <img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=40" alt="html5" />
 <img src="https://cdn.simpleicons.org/css?viewbox=auto&size=40" alt="css" />
 <img src="https://cdn.simpleicons.org/jquery?viewbox=auto&size=40" alt="jquery" />

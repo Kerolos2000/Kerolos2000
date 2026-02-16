@@ -34,27 +34,15 @@
 ## 💻 Tech Stack
 
 <div align="center">
-<img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=40" alt="typescript" />
-<img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" alt="javascript" />
-<img src="https://cdn.simpleicons.org/next.js?viewbox=auto&size=40" alt="next.js" />
-<img src="https://cdn.simpleicons.org/react?viewbox=auto&size=40" alt="react.js" />
-<img src="https://cdn.simpleicons.org/angular?viewbox=auto&size=40" alt="angular" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,angular,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite" alt="ts,js,react,next,angular,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite,vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=,vscode,yarn,npm,pnpm,postman,nodejs,figma" alt=",vscode,yarn,npm,pnpm,postman,nodejs,figma" />
 <img src="https://cdn.simpleicons.org/shadcnui?viewbox=auto&size=40" alt="shadcnui" />
-<img src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto&size=40" alt="tailwindcss" />
-<img src="https://cdn.simpleicons.org/mui?viewbox=auto&size=40" alt="materialui" />
-<img src="https://cdn.simpleicons.org/bootstrap?viewbox=auto&size=40" alt="bootstrap" />
 <img src="https://cdn.simpleicons.org/reacthookform?viewbox=auto&size=40" alt="reacthookform" />
 <img src="https://cdn.simpleicons.org/zod?viewbox=auto&size=40" alt="zod" />
 <img src="https://cdn.simpleicons.org/axios?viewbox=auto&size=40" alt="axios" />
 <img src="https://cdn.simpleicons.org/tanstack?viewbox=auto&size=40" alt="tanstack" />
 <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="40" alt="zustand" />
 <img src="https://cdn.simpleicons.org/i18next?viewbox=auto&size=40" alt="i18next" />
-<img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=40" alt="html5" />
-<img src="https://cdn.simpleicons.org/css?viewbox=auto&size=40" alt="css" />
-<img src="https://cdn.simpleicons.org/jquery?viewbox=auto&size=40" alt="jquery" />
-<img src="https://cdn.simpleicons.org/figma?viewbox=auto&size=40" alt="figma" />
-<img src="https://cdn.simpleicons.org/git?viewbox=auto&size=40" alt="git" />
-<img src="https://cdn.simpleicons.org/github?viewbox=auto&size=40" alt="github" />
 <img src="https://cdn.simpleicons.org/jira?viewbox=auto&size=40" alt="jira" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack" />
 </div>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00d492">Kerolos</span></h1>
-<h2 align="center">🚀 Frontend Developer | React, Next.js & Angular</h3>
+<h2 align="center">🚀 Frontend Developer | React | Next.js | Angular</h3>
 
 ---
 
